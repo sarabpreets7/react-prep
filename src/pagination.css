@@ -1,0 +1,32 @@
+
+
+.main__container{
+    width: 100%;
+    margin-top: 50px;
+    display: flex !important;
+    justify-content: center;
+flex-direction: column;
+}
+
+table{
+    width: 80%;
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+.limit__selection{
+    height: 40px;
+    width: 50px;
+    margin-left: 40px;
+}
+.buttons__container{
+    margin-top: 50px;
+    cursor: pointer;
+    gap: 20px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}

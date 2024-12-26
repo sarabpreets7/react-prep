@@ -1,0 +1,55 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  /* Search Bar Styling */
+  input[type="text"] {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  /* Product List Styling */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Product Title Styling */
+  li h2 {
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  /* Product Price Styling */
+  li p {
+    font-size: 16px;
+    color: #007bff;
+    margin: 5px 0;
+  }
+  
+  /* Product Image Styling */
+  li img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
