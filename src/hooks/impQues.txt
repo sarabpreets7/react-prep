@@ -1,0 +1,35 @@
+useFetch: A hook to fetch data from APIs and manage loading, error states.
+	2.	useLocalStorage: For getting, setting, and syncing values with localStorage.
+	3.	useDebounce: Implements debouncing logic for handling input changes.
+	4.	useThrottle: Implements throttling logic to limit function execution frequency.
+	5.	usePrevious: Tracks the previous value of a state or prop.
+	6.	useToggle: A simple hook for toggling between true and false values.
+	7.	useOnClickOutside: Detects clicks outside of a component, useful for dropdowns or modals.
+	8.	useInterval: Implements setInterval functionality within React, with clean-up.
+	9.	useTimeout: Handles setTimeout behavior within a React component.
+	10.	useMediaQuery: Detects screen size or media queries for responsive design.
+	11.	useHover: Tracks hover state on an element.
+	12.	useScrollPosition: Detects the scroll position of a page or element.
+	13.	useEventListener: A custom hook to attach and clean up event listeners.
+	14.	useWindowSize: Tracks the dimensions of the browser window.
+	15.	useUpdateEffect: A variation of useEffect that skips the initial render.
+	16.	useAsync: Handles async functions with loading and error states.
+	17.	useArray: Provides utilities for array manipulations like adding, removing, and clearing items.
+	18.	useInput: Manages form inputs by abstracting away onChange logic.
+	19.	useForm: For managing complex form logic and validations.
+	20.	useTheme: Toggles or manages application themes (e.g., light/dark mode).
+	21.	useDebouncedEffect: Combines useEffect with debouncing.
+	22.	useStateWithHistory: Keeps a history of state changes.
+	23.	useKeyPress: Tracks whether a specific key is being pressed.
+	24.	useSteps: Manages multi-step workflows like form wizards.
+	25.	usePagination: For managing paginated data.
+	26.	useIdle: Tracks user inactivity.
+	27.	useLongPress: Detects long-press gestures on an element.
+	28.	useClipboard: Manages copying text to the clipboard.
+	29.	useDrag: Handles drag-and-drop functionality.
+	30.	useIntersectionObserver: Tracks visibility of an element (useful for lazy-loading).
+	31.	useIsMounted: Tracks if a component is currently mounted to prevent memory leaks.
+	32.	useHoverIntent: Adds logic for detecting hover intent, avoiding accidental hovers.
+	33.	useNetworkStatus: Tracks the online/offline status of the browser.
+	34.	useInfiniteScroll: Implements infinite scrolling behavior for loading additional content.
+	35.	useContextSelector: Optimizes context usage by selecting only specific parts of context state.
